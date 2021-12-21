@@ -1,0 +1,28 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container-fluid{
+    height: 6900px;
+    
+   
+}
+.container{
+    height: 6800px;
+    
+}
+.row{
+    height: 700px;
+    
+}
+p::first-letter{
+    
+    font-size: 120px;
+    font-family: 'Tangerine', cursive;
+    font-style: italic;
+}
+h1::first-letter{
+    
+    font-size: 120px;
+    font-family: 'Tangerine', cursive;
+    font-style: italic;
+}
